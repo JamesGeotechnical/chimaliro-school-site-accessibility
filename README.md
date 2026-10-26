@@ -1,5 +1,10 @@
 Chimaliro School Site Accessibility Analysis
 
+you can access the deployment of the page through this link : https://jamesgeotechnical.github.io/chimaliro-school-site-accessibility/
+
+
+
+
 
 
 Overview
